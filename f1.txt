@@ -1,0 +1,15 @@
+this is hell in the cell
+
+
+
+$ git config --global user.name "harsh"
+
+
+
+$ git config --global user.email "harshdeep9248@mail.com"
+
+
+master is the default branchgit
+
+
+chang11
